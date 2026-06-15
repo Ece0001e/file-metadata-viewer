@@ -1,0 +1,4 @@
+# No external dependencies required for core functionality
+# Development dependencies (optional):
+# pytest==7.0.0
+# pytest-cov==3.0.0
